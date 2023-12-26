@@ -8,4 +8,4 @@
 - [Currículo](https://docs.google.com/document/d/10jVe3tEInT2ziCtU4MPdN6SJX4GrTaQr/edit?usp=sharing&ouid=113300837558869934481&rtpof=true&sd=true)
 
 ## Tecnologias
-![Simon GitHub stats](![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?simonfranklin1=anuraghazra&layout=compact)
+![Simon GitHub stats](![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simonfranklin1&layout=compact)

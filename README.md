@@ -12,9 +12,9 @@
  
  🔭 Atualmente sou **Desenvolvedor Freelancer**
  
- 🌱 Atualmente aprendendo **TypeScript**
+ 🌱 Atualmente aprendendo **TypeScript, Mui**
 
-⚡ Fun fact **Gosto de animes, MMA e Futebol**
+⚡ Fun fact **Gosto de Futebol, MMA e Animes**
 
  </div>
  

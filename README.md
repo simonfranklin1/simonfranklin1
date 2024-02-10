@@ -12,7 +12,7 @@
  
  🔭 Atualmente sou **Desenvolvedor Freelancer**
  
- 🌱 Atualmente aprendendo **TypeScript, Material UI**
+ 🌱 Atualmente aprendendo **TypeScript, Next.js**
 
 ⚡ Fun fact **Gosto de Futebol, MMA e Animes**
 

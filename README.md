@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 Atualmente sou **Desenvolvedor Freelancer**
+ 🔭 Atualmente sou **Desenvolvedor Front End na Brio Tecnologia**
  
  🌱 Atualmente aprendendo **TypeScript, Next.js**
 

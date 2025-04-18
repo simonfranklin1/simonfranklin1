@@ -12,7 +12,7 @@
  
  🔭 Atualmente sou **Desenvolvedor Front End na Brio Tecnologia**
  
- 🌱 Atualmente aprendendo **TypeScript, Next.js**
+ 🌱 Atualmente aprendendo **Jest, Testing Libraries**
 
 ⚡ Fun fact **Gosto de Futebol, MMA e Animes**
 
@@ -36,7 +36,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=javascript,typescript" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,next,materialui" /><br>
 </div>
 
 <br/>
